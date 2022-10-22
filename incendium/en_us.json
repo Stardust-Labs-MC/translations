@@ -1,11 +1,12 @@
 {
-  "language.name": "English",
-  "language.region": "United States",
-  "language.code": "en_us",
+  "language.name":"English",
+  "language.region":"United States",
+  "language.code":"en_us",
   
   
   
   "incendium":"Incendium",
+  "%1$s%4733088$s":"%2$s",
   
   
   "incendium.advancement.root.title":"Incendium",
