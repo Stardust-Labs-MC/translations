@@ -22,7 +22,7 @@
     "incendium.advancement.infernal_dunes.inferno.lunatic_mode.title": "Pauvre fou!",
     "incendium.advancement.infernal_dunes.inferno.lunatic_mode.desc": "Survivez la dernière phase de l'Enfer Grondant sans armure",
     "incendium.advancement.infernal_dunes.inferno.armored_wings.title": "Forgé dans les flammes",
-    "incendium.advancement.infernal_dunes.inferno.armored_wings.desc": "",
+    "incendium.advancement.infernal_dunes.inferno.armored_wings.desc": "Utilisez une Plume Infernale pour améliorer vos Élytres sur une Table de Forgeron",
     "incendium.advancement.ash_barrens.root.title": "",
     "incendium.advancement.ash_barrens.root.desc": "",
     "incendium.advancement.ash_barrens.enter_castle.title": "",
@@ -300,5 +300,6 @@
     "incendium.inferno.spell.last.shulker": "",
     "incendium.inferno.spell.last.prepare": "",
     "incendium.inferno.spell.last.activate": "",
-    "incendium.inferno.spell.last.clear": ""
+    "incendium.inferno.spell.last.clear": "",
+    "%1$s%4733088$s": "%2$s"
 }
