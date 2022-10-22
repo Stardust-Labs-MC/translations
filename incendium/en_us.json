@@ -42,7 +42,7 @@
   "incendium.advancement.ash_barrens.root.desc":"Enter the Ash Barrens, the forgotten home to the Forbidden Castle",
   
   "incendium.advancement.ash_barrens.enter_castle.title":"In the Hall of the Piglin King",
-  "incendium.advancement.ash_barrens.enter_castle.desc":"Enter a Forbidden Castle at your own peril",  
+  "incendium.advancement.ash_barrens.enter_castle.desc":"In the Golden Age, a great King ruled this castle. But he was betrayed, cursed, and exiled from his Kingdom. This is what remains.",  
 
   "incendium.advancement.ash_barrens.conquer_castle.title":"The Conqueror",
   "incendium.advancement.ash_barrens.conquer_castle.desc":"Storm a Forbidden Castle and kill every last piglin living inside",  
@@ -62,8 +62,8 @@
   "incendium.advancement.quartz_flats.floor_is_tears.title": "The Floor is Tears",
   "incendium.advancement.quartz_flats.floor_is_tears.desc":"Brave the Quartz Flats' frozen lava seas",
 
-  "incendium.advancement.quartz_flats.ghast_buster.title":"Ghast Buster",
-  "incendium.advancement.quartz_flats.ghast_buster.desc":"Kill a ghast on its home turf above the frozen lava seas",
+  "incendium.advancement.quartz_flats.rescue_mission.title":"Rescue Mission",
+  "incendium.advancement.quartz_flats.rescue_mission.desc":"Enter the Quartz Tower, the prison of the Ghastlings",
 
   "incendium.advancement.quartz_flats.special_delivery.title":"\"Special\" Delivery",
   "incendium.advancement.quartz_flats.special_delivery.desc":"Afflict a ghast with Speed, Regeneration and Invisibility -- then kill it to obtain its Ghastling",  
@@ -211,9 +211,9 @@
   "incendium.item.battle_helm.desc2":"outrun TheDancyScout",
   
   "incendium.item.warping_witherblade.name":"Warping Witherblade",
-  "incendium.item.warping_witherblade.desc1":"Used by the wither king Mors to",
-  "incendium.item.warping_witherblade.desc2":"corrupt and torment the piglins",
-  "incendium.item.warping_witherblade.desc3":"and their ancient forests in war...",
+  "incendium.item.warping_witherblade.desc1":"For in life all things return",
+  "incendium.item.warping_witherblade.desc2":"to death, and in death all things",
+  "incendium.item.warping_witherblade.desc3":"return to the shadow of",
   
   "incendium.item.trailblazer.name":"Trailblazer",
   "incendium.item.trailblazer.desc1":"Fires more powerful arrows",
