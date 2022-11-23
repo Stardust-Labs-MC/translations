@@ -273,6 +273,7 @@
   
     "incendium.item.misc.key.name":"Key",
     "incendium.item.misc.feed.name":"Ghastling Feed",
+    "incendium.item.misc.todo.name":"Feed once a week",
 
 
     "incendium.book.investigations.line1":"strange",
@@ -368,8 +369,8 @@
     "incendium.mob.misc.dune_blaze.name":"Desert Blaze",
     "incendium.mob.misc.spirit.name":"Restless Spirit",
     "incendium.mob.misc.toxic.name":"Toxic Slime",
-    "incendium.mob.misc.headless":"Headless Warrior",
-    "incendium.mob.misc.scientist":"Withered Scientist",
+    "incendium.mob.misc.headless.name":"Headless Warrior",
+    "incendium.mob.misc.scientist.name":"Withered Scientist",
   
     "incendium.mob.quartz.torte.name":"Torte",
     "incendium.mob.quartz.brother.name":"Skeleton Brother",
