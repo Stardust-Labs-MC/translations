@@ -304,7 +304,7 @@
     "incendium.item.trailblazer.system.still_wet": "est toujours trempé et ne peux être utilisé",
     "incendium.item.ragnarok.system.unstable": "devient instable plus vous le gardez chargé",
     "incendium.item.ragnarok.system.storm": "devient plus instable lors de la tempête",
-    "incendium.system.cooldown": "est en cours de refroidissement",
+    "incendium.system.cooldown": "est toujours en récupération",
     "incendium.system.credits": "Starmute et al.",
     "incendium.book.investigations.line1": "étranges",
     "incendium.book.investigations.line2": "tuyaux.",
