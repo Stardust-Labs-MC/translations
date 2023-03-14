@@ -178,7 +178,7 @@
     "incendium.item.restless_nature.desc1": "失われたネザーの自然を",
     "incendium.item.restless_nature.desc2": "再生させるという",
     "incendium.item.restless_nature.desc3": "魂の最後の祈りを込めた種",
-    "incendium.item.cake.name": "ノコックのケーキ",
+    "incendium.item.cake.name": "ケーキ生地",
     "incendium.item.cake.desc1": "ノコック特製殺人ケーキ！",
     "incendium.item.cake.system.ache": "あなたはケーキの食べ過ぎでお腹を壊した",
     "incendium.item.cake.system.yum": "んまい！",
@@ -330,5 +330,10 @@
     "incendium.inferno.spell.last.shulker": "ラスト: シュルカー",
     "incendium.inferno.spell.last.prepare": "ラスト: 準備",
     "incendium.inferno.spell.last.activate": "ラスト: 活性化",
-    "incendium.inferno.spell.last.clear": "ラスト: クリア"
+    "incendium.inferno.spell.last.clear": "ラスト: クリア",
+    "incendium.system.nbs.uninstall": "は正常にアンインストールされました。データパックをフォルダから削除することができます。",
+    "incendium.advancement.quartz_flats.special_delivery.desc": "移動速度上昇、再生能力、透明化の効果を持つガストを倒す -- それを倒し、ガストリングを手に入れる",
+    "incendium.advancement.quartz_flats.special_delivery.title": "\"速達\"便",
+    "incendium.mob.sanctum.protector.name": "聖域の守護者",
+    "incendium.mob.village.civilian.name": "村の平民"
 }
