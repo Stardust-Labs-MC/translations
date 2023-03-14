@@ -178,7 +178,7 @@
     "incendium.item.restless_nature.desc1": "Насіння, насичене духами",
     "incendium.item.restless_nature.desc2": "що бажають відновити",
     "incendium.item.restless_nature.desc3": "втрачену природу Пекла",
-    "incendium.item.cake.name": "Торт Торте",
+    "incendium.item.cake.name": "Всім тортам торт",
     "incendium.item.cake.desc1": "Смертельно-крутий торт відомого шефа Торте!",
     "incendium.item.cake.system.ache": "Ви обжерлись настільки, що ваш шлунок це не оцінив",
     "incendium.item.cake.system.yum": "Мням-мням",
@@ -330,5 +330,8 @@
     "incendium.inferno.spell.last.shulker": "Тривалість: Шалкер",
     "incendium.inferno.spell.last.prepare": "Тривалість: Підготовка",
     "incendium.inferno.spell.last.activate": "Тривалість: Активація",
-    "incendium.inferno.spell.last.clear": "Тривалість: Прибрати"
+    "incendium.inferno.spell.last.clear": "Тривалість: Прибрати",
+    "incendium.advancement.quartz_flats.special_delivery.title": "Спецпроект",
+    "incendium.advancement.quartz_flats.special_delivery.desc": "Наділіть гаста Швидкістю, Регенерацією та Невидимістю, а потім вбийте, щоб отримати гастенятка",
+    "incendium.book.investigations.page1": "\\u00a7kVvvvvvvvvvv vvv\\u00a7r дивні \\u00a7kvvv\\u00a7r труби. \\u00a7kVvvvv\\u00a7r невідомо \\u00a7kvvv\\u00a7r збудовані \\u00a7kvvvv vvv\\u00a7r за допомогою \\u00a7kvvvvvvvvsdbdsdg: vvvvvv\\u00a7r\\n\\n\\u00a7kСхоже, що\\u00a7r блейз \\u00a7kи насичені неприкаяни\\u00a7r ми душами,\\n\\u00a7kа їхні\\u00a7r атак \\u00a7kи мають неперевершену\\u00a7r швидкість."
 }
