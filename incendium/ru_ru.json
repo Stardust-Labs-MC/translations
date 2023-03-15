@@ -332,5 +332,7 @@
     "incendium.system.credits": "Starmute, и другие",
     "incendium.mob.misc.headless.name": "Без башенный Воин",
     "incendium.inferno.spell.shulker.fireballs": "Шаркер: Огненные шары",
-    "incendium.inferno.spell.firework.spread_alt": "Фейерверк: Разброс Альт"
+    "incendium.inferno.spell.firework.spread_alt": "Фейерверк: Разброс Альт",
+    "incendium.advancement.quartz_flats.special_delivery.title": "\"Особая\" Доставка",
+    "incendium.advancement.quartz_flats.special_delivery.desc": "Наложите на гаста Скорость, Регегерацию и Невидимость -- затем убейте его для получения его Гастлига"
 }
