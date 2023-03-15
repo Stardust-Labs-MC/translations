@@ -105,7 +105,7 @@
     "incendium.item.infernal_feather.desc1": "Uçan İblis'in",
     "incendium.item.infernal_feather.desc2": "kalkanlarının kalıntılarından dövülmüş",
     "incendium.item.infernal_feather.desc3": "güçlü bir hurda parçası",
-    "incendium.item.ghastling_egg.name": "",
+    "incendium.item.ghastling_egg.name": "Ghastling",
     "incendium.item.ghastling_egg.desc1": "Görebildiği Ghast'ın ateş toplarını yok eder.",
     "incendium.item.ghastling_egg.desc2": "Ateş topu yemeyi sever.",
     "incendium.item.ghastling_egg.desc3": "Sadık ama tembel",
@@ -178,7 +178,7 @@
     "incendium.item.restless_nature.desc1": "Nether'ın kayıp doğasını yeniden",
     "incendium.item.restless_nature.desc2": "canlandırmak için son bir dileği olan",
     "incendium.item.restless_nature.desc3": "ruhlar tarafından aşılanmış bir tohum",
-    "incendium.item.cake.name": "Torte'nin Keki",
+    "incendium.item.cake.name": "Kek Hamuru",
     "incendium.item.cake.desc1": "Torte'nin iğrenç ölümcül pastası!",
     "incendium.item.cake.system.ache": "O kadar çok kek yedinki karın ağrın başladı",
     "incendium.item.cake.system.yum": "Leziz",
@@ -330,5 +330,12 @@
     "incendium.inferno.spell.last.shulker": "Son: Shulker",
     "incendium.inferno.spell.last.prepare": "Son: Hazırlık",
     "incendium.inferno.spell.last.activate": "Son: Aktif",
-    "incendium.inferno.spell.last.clear": "Son: Temiz"
+    "incendium.inferno.spell.last.clear": "Son: Temiz",
+    "incendium.advancement.quartz_flats.special_delivery.desc": "Hız, Yenilenme ve Görünmezlik ile bir ghostu etkileyin -- ardından Ghastling'ini elde etmek için onu öldürün",
+    "incendium.book.investigations.page1": "§kVvvvvvvvvvv vvv§r garip §kvvv§r borular. §kVvvvv§r bilinmeyenler tarafından §kvvv§r inşa §kvvvv vvv§r kullanarak §kvvvvvvvvsdbdsdg: vvvvvv§r\n\n§kIGörünüşe ğore§r blazd§keler düşmüş ruhl§ar tarafından beslenmiş,\n§kve saldırülqrı§r inanılm§kaz bir hizda haraket§r ediyor.",
+    "incendium.mob.sanctum.protector.name": "Kutsal Koruyucu",
+    "incendium.advancement.quartz_flats.special_delivery.title": "\"Özel\" Teslimat",
+    "incendium.book.altar.page1": "§k3 ruhtan 1 ca§rnla, yıld§kızın sunağı bes§rlenir kanla.\n\nAteşin ve külün yar§katıcısı, cehen§rnem ve dün§kyanın bağlay§rıcısı,\n\nKarşısına çı§rkan ces§kur savaşçı, tutu§rşan alevin zulm§küne dik durmalı.\n\nTek başına onu alt ed§kebilen, çıkmadı var oluş§rtan beri karşısına.",
+    "incendium.mob.sanctum.ritualist.name": "Kutsal Ritüelci",
+    "incendium.mob.village.civilian.name": "Sivil Piglin"
 }
