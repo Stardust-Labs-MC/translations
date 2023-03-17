@@ -335,5 +335,10 @@
     "incendium.inferno.spell.firework.spread_alt": "Фейерверк: Разброс Альт",
     "incendium.advancement.quartz_flats.special_delivery.title": "\"Особая\" Доставка",
     "incendium.advancement.quartz_flats.special_delivery.desc": "Наложите на гаста Скорость, Регегерацию и Невидимость -- затем убейте его для получения его Гастлига",
-    "incendium.book.investigations.page1": "\\u00a7kVvvvvvvvvvv vvv\\u00a7r cтранные \\u00a7kvvv\\u00a7r трубы. \\u00a7kVvvvv\\u00a7r не известно \\u00a7kvvv\\u00a7r построены \\u00a7kvvvv vvv\\u00a7r с \\u00a7kvvvvvvvvsdbdsdg: vvvvvv\\u00a7r\\n\\n\\u00a7kПохоже, что\\u00a7r вспол\\u00a7kохи там питаются пав\\u00a7rшими душами,\\n\\u00a7kа их\\u00a7r атак\\u00a7kи движутся с невероятной\\u00a7r скоростью."
+    "incendium.book.investigations.page1": "\\u00a7kVvvvvvvvvvv vvv\\u00a7r cтранные \\u00a7kvvv\\u00a7r трубы. \\u00a7kVvvvv\\u00a7r не известно \\u00a7kvvv\\u00a7r построены \\u00a7kvvvv vvv\\u00a7r с \\u00a7kvvvvvvvvsdbdsdg: vvvvvv\\u00a7r\\n\\n\\u00a7kПохоже, что\\u00a7r вспол\\u00a7kохи там питаются пав\\u00a7rшими душами,\\n\\u00a7kа их\\u00a7r атак\\u00a7kи движутся с невероятной\\u00a7r скоростью.",
+    "incendium.book.altar.page1": "\\u00a7kНа этом\\u00a7r алта\\u00a7kре должна быть\\u00a7r звезда Нез\\u00a7kера\\u00a7r разполож\\u00a7kена:\\u00a7r,\\n\\nЧтобы призвать ИНФЕРНО, \\u00a7kбога\\u00a7r огн\\u00a7kя.\\u00a7r\\n\\nВоин \\u00a7kдолжен\\u00a7r быть достойным \\u00a7kи\\u00a7r силь\\u00a7kным\\u00a7r,\\n\\nЧтобы \\u00a7kпережить у\\u00a7rжастную яро\\u00a7kсть\\u00a7r эт\\u00a7kого в\\u00a7rсполоха.",
+    "incendium.mob.sanctum.protector.name": "Защитник Святилища",
+    "incendium.system.nbs.uninstall": "удалён успешно. Теперь вы можете убрать его из папки с датапаками.",
+    "incendium.mob.sanctum.ritualist.name": "Тауматург Святилища",
+    "incendium.mob.village.civilian.name": "Гражданский Пиглин"
 }
