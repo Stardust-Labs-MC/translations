@@ -326,5 +326,12 @@
     "incendium.inferno.spell.last.main": "Letzer: Haupt",
     "incendium.item.misc.todo.name": "Einmal pro Woche füttern",
     "incendium.system.credits": "Starmute, u.a",
-    "incendium.advancement.quartz_flats.special_delivery.title": "Eine \"Spezielle\" Lieferung"
+    "incendium.advancement.quartz_flats.special_delivery.title": "Eine \"spezielle\" Lieferung",
+    "incendium.book.investigations.page1": "[Vvvvvvvvvvv vvv] merkwürdige [vvv] Rohre. [Vvvvv] unbekannter Erbauer [vvvv vvv] mit [vvvvvvvvsdbdsdg: vvvvvv]\\n\\n[Es scheint so, dass] die Blaz[es von \"gefallen]en Seelen besessen sind,\\n[und ihre] Atta[cken feuern in einem rasenden] Tempo.",
+    "incendium.book.altar.page1": "\\u00a7kAuf diesen\\u00a7r Alt\\u00a7ka r\\u00a7r geh\\u00a7kört\\u00a7r ein Netherste\\u00a7krn\\u00a7r,\\n\\n\n\num den INFERNO, \\u00a7keinen Gott des\\u00a7r Feue\\u00a7krs\\u00a7rs, zu beschwören.\\n\\n\n\nEin Krieger \\u00a7kmuss\\u00a7r würdig \\u00a7kals auch\\u00a7r st\\u00a7kark\\u00a7r sein,\\n\\n\n\num de\\u00a7kn\\u00a7r schreckli\\u00a7kchen\\u00a7r Zorn dieser Lohe zu \\u00a7küberleben\\u00a7r.",
+    "incendium.mob.sanctum.ritualist.name": "Ritualist des Heiligtums",
+    "incendium.advancement.quartz_flats.special_delivery.desc": "Beinflusse einen Ghast mit Schnelligkeit, Regeneration und Unsichtbarkeit -- töte ihn dann, um seinen Ghastling zu erhalten",
+    "incendium.system.nbs.uninstall": "wurde erfolgreich Deinstalliert. Sie können es nun aus Ihrem Datapack Ordner entfernen.",
+    "incendium.mob.sanctum.protector.name": "Beschützer des Heiligtums",
+    "incendium.mob.village.civilian.name": "Bürgerlicher Piglin"
 }
