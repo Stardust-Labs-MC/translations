@@ -337,5 +337,9 @@
     "incendium.mob.sanctum.protector.name": "Protettore del santuario",
     "incendium.mob.village.civilian.name": "Cittadino Piglin",
     "incendium.mob.sanctum.ritualist.name": "Chierico del santuario",
-    "incendium.book.altar.page1": "S\\u00a7ku que\\u00a7rsto altare una stella ner\\u00a7ka risplen\\u00a7rde\\n\\nRichiamando il Ruggent\\u00a7ke dio d\\u00a7rel fuoco che att\\u00a7kend\\u00a7re.\\n\\nUn guerriero \\u00a7kdeve\\u00a7r essere valoroso e forte\\n\\nPer resi\\u00a7kstere al\\u00a7rla sua ira port\\u00a7katrice di m\\u00a7rorte."
+    "incendium.book.altar.page1": "S\\u00a7ku que\\u00a7rsto altare una stella ner\\u00a7ka risplen\\u00a7rde\\n\\nRichiamando il Ruggent\\u00a7ke dio d\\u00a7rel fuoco che att\\u00a7kend\\u00a7re.\\n\\nUn guerriero \\u00a7kdeve\\u00a7r essere valoroso e forte\\n\\nPer resi\\u00a7kstere al\\u00a7rla sua ira port\\u00a7katrice di m\\u00a7rorte.",
+    "incendium.advancement.quartz_flats.failed_mission.desc": "Entra nella Torre di Quarzo, dove gli antichi Ghastini morirono imprigionati",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Infiltrati nella cripta del Santuario e azzittisci le sue guardie per rimuovere l'Affaticamento",
+    "incendium.advancement.quartz_flats.failed_mission.title": "Missione fallita",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Cacciatore di caveau"
 }
