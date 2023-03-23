@@ -341,5 +341,9 @@
     "incendium.book.altar.page1": "§kSur cet§r alt§kar a§r une étoile du nethe§kr est §ré§chu:§r\n\nPour invoquer le GRONDEMENT, §kun dieu des§r brai§kses.§r\n\nUn guerrier §kdoit§r être digne §ket§r abs§kolu,§r\n\nPour §ksurvivre a§ru blaze§k's§r courroux ter§krible§r de ce blaze.",
     "incendium.system.nbs.uninstall": "a été désinstallé avec succès. Vous pouvez désormais le retirer de votre dossier de Packs de données.",
     "incendium.mob.sanctum.protector.name": "Protecteur du Sanctuaire",
-    "incendium.mob.village.civilian.name": "Civil Piglin"
+    "incendium.mob.village.civilian.name": "Civil Piglin",
+    "incendium.advancement.quartz_flats.failed_mission.desc": "Entrez dans la Tour de Quartz, où un défunt bébé Ghast est mort emprisonné",
+    "incendium.advancement.quartz_flats.failed_mission.title": "Échec de la mission",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "À prendre ou à laisser",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Infiltrez-vous dans le coffre-fort du Sanctuaire et éliminez ses gardes pour vous débarrasser de la malédiction de fatigue"
 }
