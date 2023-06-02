@@ -332,5 +332,8 @@
     "incendium.inferno.spell.last.activate": "",
     "incendium.inferno.spell.last.clear": "",
     "incendium.advancement.quartz_flats.special_delivery.title": "Entrega \"Especial\"",
-    "incendium.advancement.quartz_flats.special_delivery.desc": "Aflige a un ghast con velocidad, regeneración e invisibilidad. Luego, mátalo para obtener su ghastling"
+    "incendium.advancement.quartz_flats.special_delivery.desc": "Aflige a un ghast con velocidad, regeneración e invisibilidad. Luego, mátalo para obtener su ghastling",
+    "incendium.advancement.quartz_flats.failed_mission.title": "Misión fallada",
+    "incendium.advancement.quartz_flats.failed_mission.desc": "Entra en la Torre de Cuarzo, donde los antiguos Ghastlings perecieron en prisión",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Cazador de bóvedas"
 }
