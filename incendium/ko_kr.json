@@ -204,7 +204,7 @@
     "incendium.admin.menu.give.kit1": "인페르노 킷 1",
     "incendium.admin.menu.give.kit2": "인페르노 킷 2",
     "incendium.admin.menu.give.kit3": "인페르노 킷 3",
-    "incendium.admin.menu.inferno": "호버링 인페르노",
+    "incendium.admin.menu.inferno": "날아가는 지옥",
     "incendium.admin.menu.inferno.spells": "수동 마법",
     "incendium.admin.menu.inferno.inferno": "인페르노",
     "incendium.admin.menu.inferno.spawn": "소환",
@@ -314,5 +314,11 @@
     "incendium.item.ragnarok.system.unstable": "는 당신이 감당할 수 없을 정도로 불안정해지고 있습니다",
     "incendium.item.death_pot.name": "죽음의 물약",
     "incendium.item.misc.todo.name": "주에 한 번씩만 먹이세요",
-    "incendium.inferno.spell.firework.spread_alt": "폭죽: 분사 2"
+    "incendium.inferno.spell.firework.spread_alt": "폭죽: 분사 2",
+    "incendium.advancement.quartz_flats.failed_mission.title": "실패한 미션",
+    "incendium.advancement.quartz_flats.failed_mission.desc": "고대 가스트가 죽었던 감옥인 석영탑에 들어가세요",
+    "incendium.mob.sanctum.protector.name": "성소 수호자",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "금고 도둑",
+    "incendium.mob.village.civilian.name": "일반 피글린",
+    "incendium.advancement.quartz_flats.special_delivery.title": "\"특별한\" 배달"
 }
