@@ -332,5 +332,13 @@
     "incendium.inferno.spell.last.activate": "",
     "incendium.inferno.spell.last.clear": "",
     "incendium.advancement.quartz_flats.special_delivery.title": "Delivery \"especial\"",
-    "incendium.advancement.quartz_flats.special_delivery.desc": "Afligí un ghast con velocidad, regeneración e invisibilidad... y mátalo para obtener su ghastling"
+    "incendium.advancement.quartz_flats.special_delivery.desc": "Afligí un ghast con velocidad, regeneración e invisibilidad... y mátalo para obtener su ghastling",
+    "biome.incendium.ash_barrens": "Cenizales",
+    "biome.incendium.infernal_dunes": "Dunas Infernales",
+    "biome.incendium.inverted_forest": "Bosque invertido",
+    "biome.incendium.quartz_flats": "Llanuras de cuarzo",
+    "biome.incendium.toxic_heap": "Vertedero Tóxico",
+    "biome.incendium.volcanic_deltas": "Deltas Volcánicos",
+    "biome.incendium.weeping_valley": "Valle Llorón",
+    "biome.incendium.withered_forest": "Bosque Marchito"
 }

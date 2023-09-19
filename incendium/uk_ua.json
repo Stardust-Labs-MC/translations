@@ -333,5 +333,13 @@
     "incendium.inferno.spell.last.clear": "Тривалість: Прибрати",
     "incendium.advancement.quartz_flats.special_delivery.title": "Спецпроект",
     "incendium.advancement.quartz_flats.special_delivery.desc": "Наділіть гаста Швидкістю, Регенерацією та Невидимістю, а потім вбийте, щоб отримати гастенятка",
-    "incendium.book.investigations.page1": "\\u00a7kVvvvvvvvvvv vvv\\u00a7r дивні \\u00a7kvvv\\u00a7r труби. \\u00a7kVvvvv\\u00a7r невідомо \\u00a7kvvv\\u00a7r збудовані \\u00a7kvvvv vvv\\u00a7r за допомогою \\u00a7kvvvvvvvvsdbdsdg: vvvvvv\\u00a7r\\n\\n\\u00a7kСхоже, що\\u00a7r блейз \\u00a7kи насичені неприкаяни\\u00a7r ми душами,\\n\\u00a7kа їхні\\u00a7r атак \\u00a7kи мають неперевершену\\u00a7r швидкість."
+    "incendium.book.investigations.page1": "\\u00a7kVvvvvvvvvvv vvv\\u00a7r дивні \\u00a7kvvv\\u00a7r труби. \\u00a7kVvvvv\\u00a7r невідомо \\u00a7kvvv\\u00a7r збудовані \\u00a7kvvvv vvv\\u00a7r за допомогою \\u00a7kvvvvvvvvsdbdsdg: vvvvvv\\u00a7r\\n\\n\\u00a7kСхоже, що\\u00a7r блейз \\u00a7kи насичені неприкаяни\\u00a7r ми душами,\\n\\u00a7kа їхні\\u00a7r атак \\u00a7kи мають неперевершену\\u00a7r швидкість.",
+    "biome.incendium.ash_barrens": "Сірі Пустки",
+    "biome.incendium.infernal_dunes": "Пекельні Піски",
+    "biome.incendium.inverted_forest": "Перевернутий Ліс",
+    "biome.incendium.quartz_flats": "Кварцові Рівнини",
+    "biome.incendium.toxic_heap": "Токсичні Звалища",
+    "biome.incendium.volcanic_deltas": "Вулканічні Дельти",
+    "biome.incendium.weeping_valley": "Долина Сліз",
+    "biome.incendium.withered_forest": "Висушений Ліс"
 }

@@ -345,5 +345,13 @@
     "incendium.advancement.quartz_flats.failed_mission.desc": "Entrez dans la Tour de Quartz, où un défunt bébé Ghast est mort emprisonné",
     "incendium.advancement.quartz_flats.failed_mission.title": "Échec de la mission",
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "À prendre ou à laisser",
-    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Infiltrez-vous dans le coffre-fort du Sanctuaire et éliminez ses gardes pour vous débarrasser de la malédiction de fatigue"
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Infiltrez-vous dans le coffre-fort du Sanctuaire et éliminez ses gardes pour vous débarrasser de la malédiction de fatigue",
+    "biome.incendium.ash_barrens": "Terres cendrées",
+    "biome.incendium.infernal_dunes": "Dunes Infernales",
+    "biome.incendium.inverted_forest": "Forêt Inversée",
+    "biome.incendium.quartz_flats": "Plaines de Quartz",
+    "biome.incendium.toxic_heap": "Terrils Toxiques",
+    "biome.incendium.volcanic_deltas": "Deltas Volcaniques",
+    "biome.incendium.weeping_valley": "Vallée Larmoyante",
+    "biome.incendium.withered_forest": "Forêt Fanée"
 }

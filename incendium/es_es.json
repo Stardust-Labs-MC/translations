@@ -335,5 +335,13 @@
     "incendium.advancement.quartz_flats.special_delivery.desc": "Aflige a un ghast con velocidad, regeneración e invisibilidad. Luego, mátalo para obtener su ghastling",
     "incendium.advancement.quartz_flats.failed_mission.title": "Misión fallada",
     "incendium.advancement.quartz_flats.failed_mission.desc": "Entra en la Torre de Cuarzo, donde los antiguos Ghastlings perecieron en prisión",
-    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Cazador de bóvedas"
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Cazador de bóvedas",
+    "biome.incendium.ash_barrens": "Yermos humeantes",
+    "biome.incendium.infernal_dunes": "Dunas infernales",
+    "biome.incendium.inverted_forest": "Bosque invertido",
+    "biome.incendium.quartz_flats": "Llanuras de cuarzo",
+    "biome.incendium.toxic_heap": "Vertedero tóxico",
+    "biome.incendium.volcanic_deltas": "Deltas volcánicos",
+    "biome.incendium.weeping_valley": "Valle llorón",
+    "biome.incendium.withered_forest": "Bosque marchito"
 }

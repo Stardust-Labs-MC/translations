@@ -2,10 +2,10 @@ import json
 import os
 
 def main():
-    lang = input("Choose language (en_us): ")
+    lang = input("Choose language (ex: en_us): ")
     
     # Copy English strings
-    for component in ["incendium", "omni-biome"]:
+    for component in ["incendium", "terralith", "nullscape"]:
         with open(f"{os.getcwd()}/{component}/en_us.json", 'r') as f:
             data = json.load(f)
 

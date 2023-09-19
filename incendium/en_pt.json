@@ -334,5 +334,13 @@
     "incendium.advancement.quartz_flats.failed_mission.title": "Argh! Nothin' touched on th' quest",
     "incendium.advancement.quartz_flats.failed_mission.desc": "Set yer peg leg in th' Obelisk o' Quartz, where th' ancient Ghastlings perished in th' lockup",
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Bo'unt tak'r o' saves",
-    "incendium.advancement.quartz_flats.special_delivery.title": "\"Notew'rth'y\" Load"
+    "incendium.advancement.quartz_flats.special_delivery.title": "\"Notew'rth'y\" Load",
+    "biome.incendium.ash_barrens": "Scorch'd wastlan's",
+    "biome.incendium.infernal_dunes": "Burn'd lan's",
+    "biome.incendium.inverted_forest": "Wood's o' other way",
+    "biome.incendium.quartz_flats": "Flats o' white crystal",
+    "biome.incendium.toxic_heap": "Virulent mound",
+    "biome.incendium.volcanic_deltas": "Deltas o' magma",
+    "biome.incendium.weeping_valley": "Gorge o' whinin'",
+    "biome.incendium.withered_forest": "Woods o' rottin'"
 }

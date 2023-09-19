@@ -323,5 +323,13 @@
     "incendium.advancement.quartz_flats.special_delivery.title": "\"특별한\" 배달",
     "incendium.book.investigations.page1": "§k개금치번역vvvv§r 수상한 §kvvv§r 파이프들. §kVvvvv§r 무엇으로 §kvvv§r 만들어진지 §kvvvv vvv§r 모르겠음 §kvvvvvvvvsdbdsdg: vvvvvv§r\n\n§k타락한 블래이즈§r 영혼으로부터§k연료 공급받음§r공급받는것 같음\n§k그리고  §r그들은 §k매우 빠른 속도로§r 공격함.",
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "성소 금고에 잠입해 성소 수호자를 죽이고 채굴 피로를 제거하세요",
-    "incendium.advancement.quartz_flats.special_delivery.desc": "신속,재생,투명화 상태로 가스트를 괴롭히고 죽이세요"
+    "incendium.advancement.quartz_flats.special_delivery.desc": "신속,재생,투명화 상태로 가스트를 괴롭히고 죽이세요",
+    "biome.incendium.ash_barrens": "",
+    "biome.incendium.infernal_dunes": "",
+    "biome.incendium.inverted_forest": "",
+    "biome.incendium.quartz_flats": "",
+    "biome.incendium.toxic_heap": "",
+    "biome.incendium.volcanic_deltas": "",
+    "biome.incendium.weeping_valley": "",
+    "biome.incendium.withered_forest": ""
 }

@@ -344,5 +344,13 @@
     "incendium.advancement.quartz_flats.failed_mission.desc": "Войдите в Кварцевую башню, где в тюрьме погибли древние Гастлинги",
     "incendium.advancement.quartz_flats.failed_mission.title": "Миссия провалена",
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Охотник за Хранилищами",
-    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Проникните в хранилище Святилища и заставьте его стражников замолчать, чтобы снять Утомление"
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Проникните в хранилище Святилища и заставьте его стражников замолчать, чтобы снять Утомление",
+    "biome.incendium.ash_barrens": "Пепельные Пустоши",
+    "biome.incendium.infernal_dunes": "Адские Дюны",
+    "biome.incendium.inverted_forest": "Перевернутый Лес",
+    "biome.incendium.quartz_flats": "Кварцевые Равнины",
+    "biome.incendium.toxic_heap": "Токсичные Кучи",
+    "biome.incendium.volcanic_deltas": "Вулканические Дельты",
+    "biome.incendium.weeping_valley": "Долина Слез",
+    "biome.incendium.withered_forest": "Иссушеный Лес"
 }

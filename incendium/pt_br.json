@@ -342,5 +342,13 @@
     "incendium.mob.sanctum.protector.name": "Protetor do Santuário",
     "incendium.mob.sanctum.ritualist.name": "Ritualista do Santuário",
     "incendium.advancement.quartz_flats.special_delivery.title": "Entrega \"especial\"",
-    "incendium.mob.village.civilian.name": "Civil Piglin"
+    "incendium.mob.village.civilian.name": "Civil Piglin",
+    "biome.incendium.ash_barrens": "Zona Árida das Cinzas",
+    "biome.incendium.infernal_dunes": "Dunas Infernais",
+    "biome.incendium.inverted_forest": "Floresta Invertida",
+    "biome.incendium.quartz_flats": "Campos de Quartzo",
+    "biome.incendium.toxic_heap": "Lixo nuclear",
+    "biome.incendium.volcanic_deltas": "Deltas Vulcânicos",
+    "biome.incendium.weeping_valley": "Vale Choroso",
+    "biome.incendium.withered_forest": "Floresta Decomposta"
 }

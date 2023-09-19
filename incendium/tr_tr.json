@@ -337,5 +337,13 @@
     "incendium.advancement.quartz_flats.special_delivery.title": "\"Özel\" Teslimat",
     "incendium.book.altar.page1": "§k3 ruhtan 1 ca§rnla, yıld§kızın sunağı bes§rlenir kanla.\n\nAteşin ve külün yar§katıcısı, cehen§rnem ve dün§kyanın bağlay§rıcısı,\n\nKarşısına çı§rkan ces§kur savaşçı, tutu§rşan alevin zulm§küne dik durmalı.\n\nTek başına onu alt ed§kebilen, çıkmadı var oluş§rtan beri karşısına.",
     "incendium.mob.sanctum.ritualist.name": "Kutsal Ritüelci",
-    "incendium.mob.village.civilian.name": "Sivil Piglin"
+    "incendium.mob.village.civilian.name": "Sivil Piglin",
+    "biome.incendium.ash_barrens": "Kül Çorakları",
+    "biome.incendium.infernal_dunes": "Cehennem Kumulları",
+    "biome.incendium.inverted_forest": "Tepetaklak Orman",
+    "biome.incendium.quartz_flats": "Kuvars Düzlükleri",
+    "biome.incendium.toxic_heap": "Zehirli Yığın",
+    "biome.incendium.volcanic_deltas": "Volkanik Deltalar",
+    "biome.incendium.weeping_valley": "Ağlayan Vadi",
+    "biome.incendium.withered_forest": "Solmuş Orman"
 }

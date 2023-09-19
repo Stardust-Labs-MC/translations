@@ -340,5 +340,13 @@
     "incendium.system.nbs.uninstall": "已经成功卸载，你可以现在从数据包文件夹里移除它了",
     "incendium.mob.sanctum.protector.name": "圣所保护者",
     "incendium.mob.sanctum.ritualist.name": "圣所祭司",
-    "incendium.mob.village.civilian.name": "猪灵平民"
+    "incendium.mob.village.civilian.name": "猪灵平民",
+    "biome.incendium.ash_barrens": "灰烬荒原",
+    "biome.incendium.infernal_dunes": "炼狱沙丘",
+    "biome.incendium.inverted_forest": "倒转森林",
+    "biome.incendium.quartz_flats": "石英平地",
+    "biome.incendium.toxic_heap": "毒料堆",
+    "biome.incendium.volcanic_deltas": "三角洲火山",
+    "biome.incendium.weeping_valley": "垂泪峡谷",
+    "biome.incendium.withered_forest": "枯焦森林"
 }

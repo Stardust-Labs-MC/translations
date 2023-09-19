@@ -342,5 +342,13 @@
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "Infiltrati nella cripta del Santuario e azzittisci le sue guardie per rimuovere l'Affaticamento",
     "incendium.advancement.quartz_flats.failed_mission.title": "Missione fallita",
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Cacciatore di caveau",
-    "incendium.book.investigations.page1": "\\u00a7kUn posto pieno di\\u00a7r strani \\u00a7ke grossi\\u00a7r tubi. \\u00a7kAl momento\\u00a7r non si sa \\u00a7kné chi li abbia\\u00a7r costruiti \\u00a7kné\\u00a7r con \\u00a7kche scopo.\\u00a7r\n\n\\u00a7kSembra che i\\u00a7r blaz\\u00a7ke laggiù siano alimentati da\\u00a7ranime cadute,\n\\u00a7ke i loro\\u00a7r attac\\u00a7kchi si muovono a incredibili\\u00a7r velocità."
+    "incendium.book.investigations.page1": "\\u00a7kUn posto pieno di\\u00a7r strani \\u00a7ke grossi\\u00a7r tubi. \\u00a7kAl momento\\u00a7r non si sa \\u00a7kné chi li abbia\\u00a7r costruiti \\u00a7kné\\u00a7r con \\u00a7kche scopo.\\u00a7r\n\n\\u00a7kSembra che i\\u00a7r blaz\\u00a7ke laggiù siano alimentati da\\u00a7ranime cadute,\n\\u00a7ke i loro\\u00a7r attac\\u00a7kchi si muovono a incredibili\\u00a7r velocità.",
+    "biome.incendium.ash_barrens": "Lande Incenerite",
+    "biome.incendium.infernal_dunes": "Dune infernali",
+    "biome.incendium.inverted_forest": "Foresta capovolta",
+    "biome.incendium.quartz_flats": "Piane di quarzo",
+    "biome.incendium.toxic_heap": "Cumulo tossico",
+    "biome.incendium.volcanic_deltas": "Delta vulcaniche",
+    "biome.incendium.weeping_valley": "Valle Piangente",
+    "biome.incendium.withered_forest": "Foresta avvizzita"
 }
