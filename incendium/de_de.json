@@ -346,13 +346,13 @@
     "biome.incendium.volcanic_deltas": "Vulkanische Deltas",
     "biome.incendium.weeping_valley": "Weinendes Tal",
     "biome.incendium.withered_forest": "Verwelkter Wald",
-    "structure.incendium.forbidden_castle": "",
-    "structure.incendium.sanctum": "",
-    "structure.incendium.infernal_altar": "",
-    "structure.incendium.ruined_lab": "",
-    "structure.incendium.nether_reactor": "",
-    "structure.incendium.abandoned_tower": "",
-    "structure.incendium.quartz_kitchen": "",
-    "structure.incendium.piglin_village": "",
-    "structure.incendium.pipeline": ""
+    "structure.incendium.forbidden_castle": "Verbotenes Schloss",
+    "structure.incendium.sanctum": "Heiligtum",
+    "structure.incendium.infernal_altar": "Höllischer Altar",
+    "structure.incendium.ruined_lab": "Zerstörtes Labor",
+    "structure.incendium.nether_reactor": "Nether-Reaktor",
+    "structure.incendium.abandoned_tower": "Verlassener Turm",
+    "structure.incendium.quartz_kitchen": "Quarzküche",
+    "structure.incendium.piglin_village": "Piglindorf",
+    "structure.incendium.pipeline": "Pipeline"
 }
