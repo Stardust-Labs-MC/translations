@@ -353,5 +353,14 @@
     "biome.incendium.toxic_heap": "Terrils Toxiques",
     "biome.incendium.volcanic_deltas": "Deltas Volcaniques",
     "biome.incendium.weeping_valley": "Vallée Larmoyante",
-    "biome.incendium.withered_forest": "Forêt Fanée"
+    "biome.incendium.withered_forest": "Forêt Fanée",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

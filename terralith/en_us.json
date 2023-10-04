@@ -83,7 +83,6 @@
     "biome.terralith.yellowstone": "Yellowstone",
     "biome.terralith.yosemite_cliffs": "Yosemite Cliffs",
     "biome.terralith.yosemite_lowlands": "Yosemite Lowlands",
-
     "biome.terralith.cave/andesite_caves": "Andesite Caves",
     "biome.terralith.cave/desert_caves": "Desert Caves",
     "biome.terralith.cave/deep_caves": "Deep Caves",
@@ -96,7 +95,6 @@
     "biome.terralith.cave/thermal_caves": "Thermal Caves",
     "biome.terralith.cave/tuff_caves": "Tuff Caves",
     "biome.terralith.cave/underground_jungle": "Underground Jungle",
-
     "biome.terralith.cave.andesite_caves": "Andesite Caves",
     "biome.terralith.cave.desert_caves": "Desert Caves",
     "biome.terralith.cave.deep_caves": "Deep Caves",
@@ -109,9 +107,19 @@
     "biome.terralith.cave.thermal_caves": "Thermal Caves",
     "biome.terralith.cave.tuff_caves": "Tuff Caves",
     "biome.terralith.cave.underground_jungle": "Underground Jungle",
-    
     "biome.terralith.cave/crystal_caves": "Crystal Caves",
     "biome.terralith.cave.crystal_caves": "Crystal Caves",
     "biome.terralith.cave/ice_caves": "Ice Caves",
-    "biome.terralith.cave.ice_caves": "Ice Caves"
+    "biome.terralith.cave.ice_caves": "Ice Caves",
+    "structure.terralith.fortified_village": "Fortified Village",
+    "structure.terralith.fortified_desert_village": "Fortified Desert Village",
+    "structure.terralith.spire": "Spire",
+    "structure.terralith.glacial_hut": "Glacial Hut",
+    "structure.terralith.underground/giant_bee_hive": "Giant Bee Hive",
+    "structure.terralith.underground/oak_cabin": "Oak Cabin",
+    "structure.terralith.underground/mining_outpost": "Mining Outpost",
+    "structure.terralith.underground/old_refinery": "Old Refinery",
+    "structure.terralith.underground/sunken_tower": "Sunken Tower",
+    "structure.terralith.underground/witch_hut": "Witch Hut",
+    "structure.terralith.underground/frosted_dungeon": "Frosted Dungeon"
 }

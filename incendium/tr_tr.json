@@ -345,5 +345,14 @@
     "biome.incendium.toxic_heap": "Zehirli Yığın",
     "biome.incendium.volcanic_deltas": "Volkanik Deltalar",
     "biome.incendium.weeping_valley": "Ağlayan Vadi",
-    "biome.incendium.withered_forest": "Solmuş Orman"
+    "biome.incendium.withered_forest": "Solmuş Orman",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

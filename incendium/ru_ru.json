@@ -352,5 +352,14 @@
     "biome.incendium.toxic_heap": "Токсичные Кучи",
     "biome.incendium.volcanic_deltas": "Вулканические Дельты",
     "biome.incendium.weeping_valley": "Долина Слез",
-    "biome.incendium.withered_forest": "Иссушеный Лес"
+    "biome.incendium.withered_forest": "Иссушеный Лес",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

@@ -348,5 +348,14 @@
     "biome.incendium.toxic_heap": "毒料堆",
     "biome.incendium.volcanic_deltas": "三角洲火山",
     "biome.incendium.weeping_valley": "垂泪峡谷",
-    "biome.incendium.withered_forest": "枯焦森林"
+    "biome.incendium.withered_forest": "枯焦森林",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

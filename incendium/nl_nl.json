@@ -338,5 +338,14 @@
     "biome.incendium.toxic_heap": "Giftige Hoop",
     "biome.incendium.volcanic_deltas": "Vulkanische Riviermonding",
     "biome.incendium.weeping_valley": "",
-    "biome.incendium.withered_forest": "Verdord Bos"
+    "biome.incendium.withered_forest": "Verdord Bos",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

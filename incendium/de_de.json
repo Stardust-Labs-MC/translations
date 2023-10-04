@@ -345,5 +345,14 @@
     "biome.incendium.toxic_heap": "Giftmüllhalde",
     "biome.incendium.volcanic_deltas": "Vulkanische Deltas",
     "biome.incendium.weeping_valley": "Weinendes Tal",
-    "biome.incendium.withered_forest": "Verwelkter Wald"
+    "biome.incendium.withered_forest": "Verwelkter Wald",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

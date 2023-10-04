@@ -326,5 +326,14 @@
     "biome.incendium.toxic_heap": "Khu vực độc hại",
     "biome.incendium.volcanic_deltas": "Đồng bằng núi lửa",
     "biome.incendium.weeping_valley": "Thung lũng khóc",
-    "biome.incendium.withered_forest": "Rừng khô héo"
+    "biome.incendium.withered_forest": "Rừng khô héo",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

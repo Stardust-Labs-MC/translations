@@ -343,5 +343,14 @@
     "biome.incendium.toxic_heap": "Vertedero tóxico",
     "biome.incendium.volcanic_deltas": "Deltas volcánicos",
     "biome.incendium.weeping_valley": "Valle llorón",
-    "biome.incendium.withered_forest": "Bosque marchito"
+    "biome.incendium.withered_forest": "Bosque marchito",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

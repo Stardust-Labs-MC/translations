@@ -342,5 +342,14 @@
     "biome.incendium.toxic_heap": "Virulent mound",
     "biome.incendium.volcanic_deltas": "Deltas o' magma",
     "biome.incendium.weeping_valley": "Gorge o' whinin'",
-    "biome.incendium.withered_forest": "Woods o' rottin'"
+    "biome.incendium.withered_forest": "Woods o' rottin'",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

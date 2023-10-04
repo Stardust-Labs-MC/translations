@@ -350,5 +350,14 @@
     "biome.incendium.toxic_heap": "Lixo nuclear",
     "biome.incendium.volcanic_deltas": "Deltas Vulcânicos",
     "biome.incendium.weeping_valley": "Vale Choroso",
-    "biome.incendium.withered_forest": "Floresta Decomposta"
+    "biome.incendium.withered_forest": "Floresta Decomposta",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

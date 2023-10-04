@@ -109,5 +109,16 @@
     "biome.terralith.cave/crystal_caves": "水晶洞穴",
     "biome.terralith.cave.crystal_caves": "水晶洞穴",
     "biome.terralith.cave/ice_caves": "寒冰洞穴",
-    "biome.terralith.cave.ice_caves": "寒冰洞穴"
+    "biome.terralith.cave.ice_caves": "寒冰洞穴",
+    "structure.terralith.fortified_village": "",
+    "structure.terralith.fortified_desert_village": "",
+    "structure.terralith.spire": "",
+    "structure.terralith.glacial_hut": "",
+    "structure.terralith.underground/giant_bee_hive": "",
+    "structure.terralith.underground/oak_cabin": "",
+    "structure.terralith.underground/mining_outpost": "",
+    "structure.terralith.underground/old_refinery": "",
+    "structure.terralith.underground/sunken_tower": "",
+    "structure.terralith.underground/witch_hut": "",
+    "structure.terralith.underground/frosted_dungeon": ""
 }

@@ -350,5 +350,14 @@
     "biome.incendium.toxic_heap": "Cumulo tossico",
     "biome.incendium.volcanic_deltas": "Delta vulcaniche",
     "biome.incendium.weeping_valley": "Valle Piangente",
-    "biome.incendium.withered_forest": "Foresta avvizzita"
+    "biome.incendium.withered_forest": "Foresta avvizzita",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }

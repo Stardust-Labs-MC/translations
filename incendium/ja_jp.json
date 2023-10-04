@@ -346,5 +346,14 @@
     "biome.incendium.toxic_heap": "",
     "biome.incendium.volcanic_deltas": "",
     "biome.incendium.weeping_valley": "",
-    "biome.incendium.withered_forest": ""
+    "biome.incendium.withered_forest": "",
+    "structure.incendium.forbidden_castle": "",
+    "structure.incendium.sanctum": "",
+    "structure.incendium.infernal_altar": "",
+    "structure.incendium.ruined_lab": "",
+    "structure.incendium.nether_reactor": "",
+    "structure.incendium.abandoned_tower": "",
+    "structure.incendium.quartz_kitchen": "",
+    "structure.incendium.piglin_village": "",
+    "structure.incendium.pipeline": ""
 }
