@@ -5,7 +5,7 @@ def main():
     lang = input("Choose language (ex: en_us): ")
     
     # Copy English strings
-    for component in ["incendium", "terralith", "nullscape"]:
+    for component in ["incendium", "terralith", "nullscape", "structory", "structory_towers"]:
         with open(f"{os.getcwd()}/{component}/en_us.json", 'r') as f:
             data = json.load(f)
 
