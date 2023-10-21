@@ -347,5 +347,6 @@
     "structure.incendium.abandoned_tower": "",
     "structure.incendium.quartz_kitchen": "",
     "structure.incendium.piglin_village": "",
-    "structure.incendium.pipeline": ""
+    "structure.incendium.pipeline": "",
+    "incendium.advancement.quartz_flats.failed_mission.title": "任務失敗"
 }
