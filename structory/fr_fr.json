@@ -1,8 +1,8 @@
 {
-    "structure.structory.boat": "",
-    "structure.structory.firetower": "",
-    "structure.structory.jungle_ruin": "",
-    "structure.structory.outcast_villager_desert": "",
+    "structure.structory.boat": "Bateau",
+    "structure.structory.firetower": "Tour de feu",
+    "structure.structory.jungle_ruin": "Ruine de la jungle",
+    "structure.structory.outcast_villager_desert": "Villageois exclu du désert",
     "structure.structory.outcast_villager_grassy": "",
     "structure.structory.ruin_grassy": "",
     "structure.structory.northern_ruin": "",
