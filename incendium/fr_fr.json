@@ -354,13 +354,13 @@
     "biome.incendium.volcanic_deltas": "Deltas Volcaniques",
     "biome.incendium.weeping_valley": "Vallée Larmoyante",
     "biome.incendium.withered_forest": "Forêt Fanée",
-    "structure.incendium.forbidden_castle": "",
-    "structure.incendium.sanctum": "",
-    "structure.incendium.infernal_altar": "",
-    "structure.incendium.ruined_lab": "",
-    "structure.incendium.nether_reactor": "",
-    "structure.incendium.abandoned_tower": "",
-    "structure.incendium.quartz_kitchen": "",
-    "structure.incendium.piglin_village": "",
-    "structure.incendium.pipeline": ""
+    "structure.incendium.forbidden_castle": "Château interdit",
+    "structure.incendium.sanctum": "Sanctuaire",
+    "structure.incendium.infernal_altar": "Autel infernal",
+    "structure.incendium.ruined_lab": "Laboratoire en ruine",
+    "structure.incendium.nether_reactor": "Réacteur du Nether",
+    "structure.incendium.abandoned_tower": "Tour abandonnée",
+    "structure.incendium.quartz_kitchen": "Cuisine en quartz",
+    "structure.incendium.piglin_village": "Village de Piglin",
+    "structure.incendium.pipeline": "Canalisation"
 }
