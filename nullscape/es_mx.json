@@ -1,6 +1,6 @@
 {
-    "biome.nullscape.crystal_peaks": "",
-    "biome.nullscape.shadowlands": "",
-    "biome.nullscape.void_barrens": "",
-    "structure.nullscape.dragon_skeleton": ""
+    "biome.nullscape.crystal_peaks": "Montañas de Crystal",
+    "biome.nullscape.shadowlands": "Tierras de Sombras",
+    "biome.nullscape.void_barrens": "Baldíos del Vacio",
+    "structure.nullscape.dragon_skeleton": "Esqueleto de Dragon"
 }
