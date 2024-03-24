@@ -58,10 +58,10 @@
     "biome.terralith.shrubland": "Matorral",
     "biome.terralith.siberian_grove": "Arboleda siberiana",
     "biome.terralith.siberian_taiga": "Taiga siberiana",
-    "biome.terralith.skylands_autumn": "Skylands (Otoño)",
-    "biome.terralith.skylands_spring": "Skylands (Primavera)",
-    "biome.terralith.skylands_summer": "Skylands (Verano)",
-    "biome.terralith.skylands_winter": "Skylands (Invierno)",
+    "biome.terralith.skylands_autumn": "Islas Del Cielo (Otoño)",
+    "biome.terralith.skylands_spring": "Islas Del Cielo (Primavera)",
+    "biome.terralith.skylands_summer": "Islas Del Cielo (Verano)",
+    "biome.terralith.skylands_winter": "Islas Del Cielo (Invierno)",
     "biome.terralith.snowy_badlands": "Páramo nevado",
     "biome.terralith.snowy_maple_forest": "Bosque de arce nevado",
     "biome.terralith.snowy_shield": "Escudo nevado",
@@ -120,5 +120,6 @@
     "structure.terralith.underground/old_refinery": "",
     "structure.terralith.underground/sunken_tower": "",
     "structure.terralith.underground/witch_hut": "",
-    "structure.terralith.underground/frosted_dungeon": ""
+    "structure.terralith.underground/frosted_dungeon": "",
+    "biome.terralith.snowy_cherry_grove": "Cerezal nevada"
 }
