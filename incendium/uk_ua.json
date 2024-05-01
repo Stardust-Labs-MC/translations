@@ -350,5 +350,8 @@
     "structure.incendium.abandoned_tower": "",
     "structure.incendium.quartz_kitchen": "",
     "structure.incendium.piglin_village": "",
-    "structure.incendium.pipeline": ""
+    "structure.incendium.pipeline": "",
+    "incendium.advancement.quartz_flats.failed_mission.title": "Невдала Місія",
+    "incendium.advancement.quartz_flats.failed_mission.desc": "Пройдіть до Кварцевої Вежі, де полегли давні гастенята",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "Мисливець за Сховищами"
 }
