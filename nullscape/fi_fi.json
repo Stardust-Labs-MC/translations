@@ -1,6 +1,6 @@
 {
-  "biome.nullscape.crystal_peaks": "",
-  "biome.nullscape.shadowlands": "",
-  "biome.nullscape.void_barrens": "",
-  "structure.nullscape.dragon_skeleton": ""
+    "biome.nullscape.crystal_peaks": "Kristalli Huiput",
+    "biome.nullscape.shadowlands": "Varjomaat",
+    "biome.nullscape.void_barrens": "Tyhjiö Aavikko",
+    "structure.nullscape.dragon_skeleton": "Lohikäärmeen Luuranko"
 }
