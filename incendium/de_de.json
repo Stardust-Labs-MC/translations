@@ -354,5 +354,12 @@
     "structure.incendium.abandoned_tower": "Verlassener Turm",
     "structure.incendium.quartz_kitchen": "Quarzküche",
     "structure.incendium.piglin_village": "Piglindorf",
-    "structure.incendium.pipeline": "Pipeline"
+    "structure.incendium.pipeline": "Pipeline",
+    "incendium.item.eternal_glowing.name": "Wurftrank der ewigen Leuchtkraft",
+    "incendium.item.banner_sanctum.name": "Eid des Heiligtums",
+    "incendium.item.eternal_glowing.desc": "Leuchtkraft (∞)",
+    "incendium.item.bad_omen_pot.name": "Trank des drohenden Unheils",
+    "incendium.item.banner_blade.name": "Banner der Klinge",
+    "incendium.item.banner_ominous.name": "Ominöses Banner",
+    "incendium.item.banner_poppy.name": "Das Versprechen einer Mohnblume"
 }
