@@ -43,7 +43,7 @@
     "incendium.advancement.quartz_flats.ghast_buster.desc": "在冷凍岩漿海上的凝灰岩殺死一隻地獄幽靈。",
     "incendium.advancement.quartz_flats.rescue_mission.title": "救援任務",
     "incendium.advancement.quartz_flats.rescue_mission.desc": "進入石英塔，幽魂們的監獄。",
-    "incendium.advancement.quartz_flats.feed_ghastling.title": "",
+    "incendium.advancement.quartz_flats.feed_ghastling.title": "餵養怪獸",
     "incendium.advancement.quartz_flats.feed_ghastling.desc": "將一個幽靈怪物最喜歡的食物 - 火球 - 餵給它，以切換它跟隨您的模式",
     "incendium.advancement.quartz_flats.torte.root.title": "你這個白癡!",
     "incendium.advancement.quartz_flats.torte.root.desc": "消滅骷髏廚師托爾特並搜刮他的廚房",
@@ -51,7 +51,7 @@
     "incendium.advancement.quartz_flats.torte.kitchen_treasure.desc": "尋找石英廚房中的隱藏寶藏",
     "incendium.advancement.quartz_flats.sanctum.root.title": "掠奪者的避難所?",
     "incendium.advancement.quartz_flats.sanctum.root.desc": "掠奪者神殿或許沒有這麼神聖...",
-    "incendium.advancement.withered_forest.root.title": "",
+    "incendium.advancement.withered_forest.root.title": "遠古戰場",
     "incendium.advancement.withered_forest.root.desc": "",
     "incendium.advancement.withered_forest.kill_spirit.title": "",
     "incendium.advancement.withered_forest.kill_spirit.desc": "",
@@ -352,5 +352,6 @@
     "incendium.advancement.quartz_flats.sanctum.vault_hunter.title": "寶藏獵人",
     "incendium.advancement.quartz_flats.failed_mission.desc": "進入石英塔，那裡是古代的幽靈怪物在監獄中死亡的地方",
     "incendium.advancement.quartz_flats.special_delivery.title": "\"特別\"傳遞",
-    "incendium.advancement.quartz_flats.special_delivery.desc": "給一個恐怖幽靈施加速度、再生和隱形效果，然後將其擊殺以獲得它的幽靈幼崽"
+    "incendium.advancement.quartz_flats.special_delivery.desc": "給一個恐怖幽靈施加速度、再生和隱形效果，然後將其擊殺以獲得它的幽靈幼崽",
+    "incendium.advancement.quartz_flats.sanctum.vault_hunter.desc": "潛入\"神聖教堂\"的寶藏室並且消除自身的挖掘疲勞效果"
 }
