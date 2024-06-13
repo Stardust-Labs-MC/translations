@@ -359,5 +359,12 @@
     "structure.incendium.abandoned_tower": "Torre abbandonata",
     "structure.incendium.quartz_kitchen": "Cucina di quarzo",
     "structure.incendium.piglin_village": "Villaggio dei piglin",
-    "structure.incendium.pipeline": "Tubatura"
+    "structure.incendium.pipeline": "Tubatura",
+    "incendium.item.eternal_glowing.name": "Pozione da lancio di luminescenza eterna",
+    "incendium.item.banner_poppy.name": "Promessa di un papavero",
+    "incendium.item.eternal_glowing.desc": "Luminescenza (∞)",
+    "incendium.item.bad_omen_pot.name": "Pozione del malaugurio",
+    "incendium.item.banner_blade.name": "Stendardo della Lama",
+    "incendium.item.banner_ominous.name": "Stendardo del malaugurio",
+    "incendium.item.banner_sanctum.name": "Giuramento del santuario"
 }
