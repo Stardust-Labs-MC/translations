@@ -335,5 +335,12 @@
     "structure.incendium.abandoned_tower": "Tòa tháp bị lãng quên",
     "structure.incendium.quartz_kitchen": "Nhà bếp thạch anh",
     "structure.incendium.piglin_village": "Làng Piglin",
-    "structure.incendium.pipeline": "Đường ống"
+    "structure.incendium.pipeline": "Đường ống",
+    "incendium.item.eternal_glowing.name": "Thuốc Phát Sáng Vĩnh Cửu có thể ném được",
+    "incendium.item.bad_omen_pot.name": "Thuốc Điềm Xấu",
+    "incendium.item.banner_blade.name": "Cờ Hiệu của Lưỡi Kiếm",
+    "incendium.item.banner_poppy.name": "Lời Thề của Hoa Anh Túc",
+    "incendium.item.eternal_glowing.desc": "Phát Sáng (∞)",
+    "incendium.item.banner_ominous.name": "Cờ Hiệu Điềm Gở",
+    "incendium.item.banner_sanctum.name": "Lời Thề của Thánh Điện"
 }
