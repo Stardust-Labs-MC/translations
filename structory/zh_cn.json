@@ -1,17 +1,17 @@
 {
-    "structure.structory.boat": "",
-    "structure.structory.firetower": "",
-    "structure.structory.jungle_ruin": "",
-    "structure.structory.outcast_villager_desert": "",
+    "structure.structory.boat": "船",
+    "structure.structory.firetower": "看火塔",
+    "structure.structory.jungle_ruin": "丛林遗迹",
+    "structure.structory.outcast_villager_desert": "沙漠流放村民",
     "structure.structory.outcast_villager_grassy": "",
     "structure.structory.ruin_grassy": "",
     "structure.structory.northern_ruin": "",
-    "structure.structory.swamp_ruin": "",
-    "structure.structory.taiga_ruin_surface": "",
-    "structure.structory.taiga_ruin_underground": "",
-    "structure.structory.abandoned_camp": "",
-    "structure.structory.abandoned_chapel": "",
+    "structure.structory.swamp_ruin": "沼泽遗迹",
+    "structure.structory.taiga_ruin_surface": "地表针叶林遗迹",
+    "structure.structory.taiga_ruin_underground": "地下丛林遗迹",
+    "structure.structory.abandoned_camp": "废弃营地",
+    "structure.structory.abandoned_chapel": "废弃教堂",
     "structure.structory.dense_forest_ruin": "",
-    "structure.structory.graveyard": "",
-    "structure.structory.old_manor": ""
+    "structure.structory.graveyard": "墓地",
+    "structure.structory.old_manor": "破旧庄园"
 }
