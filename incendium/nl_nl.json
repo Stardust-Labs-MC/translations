@@ -347,5 +347,8 @@
     "structure.incendium.abandoned_tower": "",
     "structure.incendium.quartz_kitchen": "",
     "structure.incendium.piglin_village": "",
-    "structure.incendium.pipeline": ""
+    "structure.incendium.pipeline": "",
+    "incendium.advancement.quartz_flats.failed_mission.title": "Gefaalde missie",
+    "incendium.advancement.quartz_flats.special_delivery.title": "\"Speciale\" Levering",
+    "incendium.advancement.quartz_flats.failed_mission.desc": "Ga de Kwarts toren binnen, waar de eeuwenoude Ghastlings omgekomen zijn in de gevangenis"
 }
